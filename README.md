@@ -24,6 +24,7 @@
 | Yoseph Elias | 1600407 |
 | Amir Detamo | 1600045 |
 | Adimasu Robito | 1500628 |
+| Ashenafi Ayele | 1501716|
 
 ---
 
