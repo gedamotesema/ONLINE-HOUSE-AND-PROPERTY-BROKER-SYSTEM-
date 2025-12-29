@@ -116,7 +116,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="form-group">
             <label>Property Title</label>
             <input type="text" name="title" value="<?php echo htmlspecialchars($property['title'] ?? ''); ?>" required
-                placeholder="e.g. Modern Apartment in Downtown">
+                placeholder="e.g. 4X4 class">
         </div>
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
@@ -143,7 +143,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="form-group">
             <label>Location</label>
             <input type="text" name="location" value="<?php echo htmlspecialchars($property['location'] ?? ''); ?>"
-                required placeholder="City, Neighborhood">
+                required placeholder="City, eg hossana ">
         </div>
 
         <div class="form-group">
